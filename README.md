@@ -1,3 +1,6 @@
+# FrontEnd---Smart-Pizza
+Aqui segue o repositório do Front-End do SmartPizza Web para o P6 de info 2023.1 do IFCE, para as disciplinas de Práticas profissionais e Programação Web II.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
